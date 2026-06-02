@@ -118,7 +118,7 @@ A large-scale cloud modernization initiative involving migration of enterprise d
 - [Quonscious – AI-Powered Gamified Learning Ecosystem](./Quonscious-AI-Learning-Ecosystem.md)
 - [YIT – GenAI Educational Ecosystem](./YIT-GenAI-Educational-Ecosystem.md)
 - [ONDC Reconciliation Platform](./ONDC-Reconciliation-Platform.md)
-- [Data Platform Migration & Modernization Program](./Data-Platform-Migration-Modernization.md)
+- [Cloud Data Modernization & AI Readiness Program (Project Raven)](./Cloud-Data-Modernization-AI-Readiness.md)
 - [AI Solution Patterns](./AI-Solution-Patterns.md)
 - [Enterprise Knowledge Systems](./Enterprise-Knowledge-Systems.md)
 - [AI Governance and Responsible AI](./AI-Governance-And-Responsible-AI.md)
