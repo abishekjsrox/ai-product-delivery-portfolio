@@ -1,5 +1,5 @@
 # Abishek J S
-### Technical Product & Program Manager | AI Product Delivery | Certified Scrum Master
+### Technical Product & Program Manager, AI Product Delivery, Certified Scrum Master
 
 Hi, I'm Abishek.
 
